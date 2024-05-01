@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Divyesh Birawat,A Full Stack Developer and a tech geek
-- 👀 I've hands-on in Web Design & Development
-- 🌱 I’m currently working as Full Stack Web Developer at a Software Company
+- 👋 Hi, I’m Divyesh Birawat,A Frontend Developer and a tech geek
+- 👀 I've hands-on expertise in Web Development
+- 🌱 I’m currently working as Frontend Developer at a Software Company
 - 💞️ Looking forward to collaborations 
-- 📫 How to reach me? geekydv@gmail.com
+- 📫 How to reach me? divyeshbirawat@gmail.com
 
 
